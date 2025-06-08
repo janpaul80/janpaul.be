@@ -1,5 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/janpaul80/janpaul.be/main/banner.jpg" alt="JP Hartman Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/janpaul80/janpaul.be/main/616FAD9B-39E9-45CB-81FC-03C32F863E2B.jpeg" alt="JP Hartman Banner" width="100%" />
 
 # Hey, I’m JP Hartman 👋
 
