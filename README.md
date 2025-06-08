@@ -1,4 +1,4 @@
-
+![JP Hartman Banner](https://raw.githubusercontent.com/janpaul80/janpaul.be/main/me2.jpg)
 
 # Hey, I’m JP Hartman 👋
 
